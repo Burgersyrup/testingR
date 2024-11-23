@@ -67,9 +67,9 @@
                     "[+3]% growth [in all cities]",
                     "[+1 Science] [in capital]",
                     "Gain [250] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>",
-                    "[2+ Culture] from every Monument [in all cities]",
-                    "[2+ Culture] from every Garden [in all cities]",
-                    "[2+ Culture] from every Baths [in all cities]",
+                    "[+2 Culture] from every Monument [in all cities]",
+                    "[+2 Culture] from every Garden [in all cities]",
+                    "[+2 Culture] from every Baths [in all cities]",
                     "Gain a free [Palace Garden] [in capital]",
                     "Provides [1] [Policies]"
                 ],
@@ -95,7 +95,7 @@
                 "uniques": [
                     "[+3]% growth [in all cities]",
                     "[+1 Science] [in capital]",
-                    "[1+ Food, +1 Science] from [Great Improvement] tiles",
+                    "[+1 Food, +1 Science] from [Great Improvement] tiles",
                     "Gain a free [Throne Room] [in capital]",
                     
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
